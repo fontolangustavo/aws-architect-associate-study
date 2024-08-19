@@ -2,7 +2,7 @@
 
 ## Domain 1: Design Secure Architectures
 
-1. **Designing Secure Access to AWS Resources** 
+1. ✅ **Designing Secure Access to AWS Resources** 
    - Design secure access controls using IAM, AWS STS, and resource policies for least privilege access across AWS accounts.
 
 2. **Implementing IAM Policies for Security**
