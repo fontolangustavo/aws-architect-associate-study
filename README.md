@@ -115,7 +115,7 @@
 37. **Implementing Immutable Infrastructure with AWS**
     - Build immutable infrastructure using AWS CloudFormation and AWS Config to automate and enforce consistent infrastructure deployments.
 
-38. **Ensuring Data Durability with AWS Storage Solutions**
+38. ✅ **Ensuring Data Durability with AWS Storage Solutions**
     - Implement durable storage solutions with Amazon S3 and EBS, leveraging replication and backup strategies for data durability and availability.
 
 39. **Designing Serverless Architectures with AWS**
