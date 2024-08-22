@@ -168,7 +168,7 @@
 54. **Implementing Hybrid Cloud Storage Solutions with AWS**
     - Integrate on-premises storage with AWS services like Storage Gateway and Transfer Family, enabling hybrid cloud storage solutions.
 
-55. **Designing High-Performance Serverless Architectures with AWS**
+55. ✅ **Designing High-Performance Serverless Architectures with AWS**
     - Architect serverless architectures with AWS Lambda and DynamoDB, optimizing application performance and scalability.
 
 56. **Optimizing Compute Resources with AWS Managed Services**
