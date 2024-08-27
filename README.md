@@ -144,7 +144,7 @@
 46. **Implementing Data Lakes with AWS Services**
     - Build scalable data lakes using AWS Lake Formation and Athena, enabling secure data ingestion, storage, and analytics.
 
-47. **Designing Data Ingestion and Transformation with AWS**
+47. ✅ **Designing Data Ingestion and Transformation with AWS**
     - Architect data ingestion pipelines using AWS Glue and Kinesis, transforming data for analytics and real-time insights.
 
 48. **Implementing High-Performance Compute Solutions with AWS**
