@@ -74,7 +74,7 @@
 24. **Designing AWS Key Management Service (KMS) Implementations**
     - Architect AWS KMS configurations to manage encryption keys and integrate with AWS services for data protection and compliance.
 
-25. **Implementing AWS Secrets Manager for Application Security**
+25. ✅ **Implementing AWS Secrets Manager for Application Security**
     - Securely store and manage sensitive information and access credentials with AWS Secrets Manager, ensuring automated management and secure storage.
 
 26. **Designing Secure Amazon Cognito Implementations**
