@@ -65,7 +65,7 @@
 21. **Implementing AWS Security Token Service (STS)**
     - Use AWS STS to manage temporary security credentials for users and applications, enhancing security and reducing IAM role management overhead.
 
-22. **Designing AWS Firewall Manager Implementations**
+22. ✅ **Designing AWS Firewall Manager Implementations**
     - Architect AWS Firewall Manager configurations to centrally manage AWS WAF rules across accounts and resources, ensuring consistent security posture.
 
 23. **Implementing AWS CloudHSM for Key Management**
