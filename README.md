@@ -133,7 +133,7 @@
 43. ✅ **Implementing AWS Containers for Elasticity**
     - Deploy containerized applications with Amazon ECS and EKS, orchestrating and scaling containers to meet application performance requirements.
 
-44. **Designing High-Performance Data Pipelines with AWS**
+44. ✅ **Designing High-Performance Data Pipelines with AWS**
     - Architect data pipelines with AWS Glue and Kinesis, processing and analyzing real-time and batch data for actionable insights.
 
 45. **Implementing AWS Compute Services for Performance**
